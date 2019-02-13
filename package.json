@@ -1,6 +1,6 @@
 {
   "name": "test-releases",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "just sits here and gets released",
   "main": "index.js",
   "scripts": {
